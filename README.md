@@ -1,6 +1,6 @@
 # Evaluation-of-Space-Utilization-
 
-All the sensitive information is removed from codes to ensure the data security.
+All the sensitive information is removed from codes to ensure data security.
 
 This comes from one of my projects. The goal is to define several key metrics to evaluate the current space utlization efficiency for warehouses. 
 
