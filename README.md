@@ -1,6 +1,7 @@
 # Project : Evaluation of Space Utilization Efficiency
 
 My original words:
+
 All the sensitive information is removed from demo codes to ensure data security.
 
 This comes from one of my projects. The goal is to define several key metrics to evaluate the current space utlization efficiency for warehouses. 
@@ -13,8 +14,10 @@ I used numpy & pandas to analyze the sample data first. Once testify the success
 
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What Chat GPT gives:
+
 In one of my recent projects, the objective was to evaluate the space utilization efficiency of warehouses by defining key metrics. To accomplish this, I utilized numpy and pandas libraries to conduct an initial analysis on a sample dataset. Once I confirmed the accuracy of the calculation methods, I leveraged PySpark within Databricks to read data from the data lake, perform data transformations, and generate result tables.
 
 By utilizing numpy and pandas, I was able to efficiently analyze the sample data, ensuring the validity of the calculation methods. The libraries provided a wide range of functionalities for data manipulation and statistical analysis, enabling me to extract valuable insights from the dataset.
