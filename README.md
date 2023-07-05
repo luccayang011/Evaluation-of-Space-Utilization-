@@ -1,6 +1,13 @@
-# Project : Evaluation of Space Utilization Efficiency
+<h1>Evaluating the Space Utilization of Warehouses</h1>
 
-My original words:
+<b>All sensitive information is removed to ensure data security.</b>
+
+<p>This is a project I've done during one of my internships. The goal is to evaluate the space utilization efficiency of warehouses. To achieve this, I've discussed with various stakeholders to obtain and define a set of key metrics. </p>
+
+<p>In Pans</p>
+
+
+My original plain words:
 
 All the sensitive information is removed from demo codes to ensure data security.
 
