@@ -8,7 +8,7 @@
 
 <p> <a href = "https://github.com/luccayang011/Project-Evaluating_Warehouse_Space_Utilization/blob/main/PySpark_Ingest_Transform_demo.ipynb">PySpark_Ingest_Transform_demo.ipynb</a> shows how the data being ingested from data lake via Databricks, transformed, and then outputted as tables so PowerBI can read and visualize.</p>
 
-<p> <a href = https://github.com/luccayang011/Project-Evaluating_Warehouse_Space_Utilization/blob/main/Product_Class_Analysis.ipynb">roduct_Class_Analysis.ipynb</a> is just a small individual project, in which I was trying to use the current data to predict product movement class.</p>
+<p> <a href = https://github.com/luccayang011/Project-Evaluating_Warehouse_Space_Utilization/blob/main/Product_Class_Analysis.ipynb">Product_Class_Analysis.ipynb</a> is just a small individual project, in which I was trying to use the current data to predict product movement class.</p>
 
 <h2>Reference</h2>
 A very useful course I've followed to learn how to use Databricks:<a href = "https://www.udemy.com/course/azure-databricks-spark-core-for-data-engineers/
